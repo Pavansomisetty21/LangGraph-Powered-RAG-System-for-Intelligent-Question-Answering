@@ -78,3 +78,8 @@ The system's architecture is structured around a **graph-based workflow**. LangG
 
 The **LangGraph-Powered RAG System** is an innovative solution for **Intelligent Question Answering**, leveraging both **local document retrieval** and **real-time web search augmentation**. By utilizing **LangGraph's graph-based flow** for decision-making and task orchestration, the system ensures efficient, accurate, and contextually relevant responses.
 
+## output
+
+![image](https://github.com/user-attachments/assets/3048a638-4557-4be2-9517-3a3e59b91a88)
+
+
